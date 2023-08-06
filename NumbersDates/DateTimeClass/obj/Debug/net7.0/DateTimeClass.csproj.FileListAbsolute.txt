@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net7.0\DateTimeClass.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net7.0\DateTimeClass.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net7.0\DateTimeClass.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net7.0\DateTimeClass.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\bin\Debug\net7.0\DateTimeClass.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\refint\DateTimeClass.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\DateTimeClass.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\DateTimeClass\obj\Debug\net7.0\ref\DateTimeClass.dll

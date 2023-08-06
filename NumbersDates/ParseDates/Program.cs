@@ -1,5 +1,4 @@
-﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
-// Example file for parsing dates from strings
+﻿// Example file for parsing dates from strings
 
 // Collection of various date string formats to attempt parsing
 string[] sampleDateTimes = {
@@ -15,4 +14,11 @@ string[] sampleDateTimes = {
 foreach (string datestr in sampleDateTimes) {
     DateTime result;
     // TODO: Use the static class function TryParse to try parsing the dates
+    if (DateTime.TryParse(datestr, out result)) {
+        Console.WriteLine($"Successfully parsed {datestr,-25} to {result}");
+    }
+    else {
+        Console.WriteLine($"Failed to parse {datestr}");
+    }
+
 }

@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\bin\Debug\net7.0\Challenge.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\bin\Debug\net7.0\Challenge.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\bin\Debug\net7.0\Challenge.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\bin\Debug\net7.0\Challenge.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\bin\Debug\net7.0\Challenge.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\refint\Challenge.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\Challenge.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\Challenge\obj\Debug\net7.0\ref\Challenge.dll

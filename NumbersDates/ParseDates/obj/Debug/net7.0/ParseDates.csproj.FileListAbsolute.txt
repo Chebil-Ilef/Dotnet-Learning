@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\bin\Debug\net7.0\ParseDates.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\bin\Debug\net7.0\ParseDates.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\bin\Debug\net7.0\ParseDates.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\bin\Debug\net7.0\ParseDates.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\bin\Debug\net7.0\ParseDates.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\refint\ParseDates.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ParseDates.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\ParseDates\obj\Debug\net7.0\ref\ParseDates.dll

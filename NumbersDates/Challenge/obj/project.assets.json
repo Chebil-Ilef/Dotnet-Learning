@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\msi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\msi\\OneDrive\\Bureau\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\NumbersDates\\Challenge\\Challenge.csproj",
+      "projectName": "Challenge",
+      "projectPath": "C:\\Users\\msi\\OneDrive\\Bureau\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\NumbersDates\\Challenge\\Challenge.csproj",
+      "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\msi\\OneDrive\\Bureau\\Ex_Files_C_and_NET_Essential_Training\\Exercise Files\\Start\\NumbersDates\\Challenge\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

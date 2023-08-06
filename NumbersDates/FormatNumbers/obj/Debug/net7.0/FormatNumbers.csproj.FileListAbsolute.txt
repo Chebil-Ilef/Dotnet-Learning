@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net7.0\FormatNumbers.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net7.0\FormatNumbers.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net7.0\FormatNumbers.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net7.0\FormatNumbers.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\bin\Debug\net7.0\FormatNumbers.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\refint\FormatNumbers.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\NumbersDates\FormatNumbers\obj\Debug\net7.0\ref\FormatNumbers.dll
