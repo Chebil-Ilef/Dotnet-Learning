@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net7.0\ReadWriteFiles.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net7.0\ReadWriteFiles.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net7.0\ReadWriteFiles.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net7.0\ReadWriteFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\bin\Debug\net7.0\ReadWriteFiles.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\refint\ReadWriteFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ReadWriteFiles.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\ReadWriteFiles\obj\Debug\net7.0\ref\ReadWriteFiles.dll

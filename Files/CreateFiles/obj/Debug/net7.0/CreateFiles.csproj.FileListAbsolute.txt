@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net7.0\CreateFiles.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net7.0\CreateFiles.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net7.0\CreateFiles.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net7.0\CreateFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\bin\Debug\net7.0\CreateFiles.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\refint\CreateFiles.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\CreateFiles.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Files\CreateFiles\obj\Debug\net7.0\ref\CreateFiles.dll
