@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net7.0\GarbageCollect.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net7.0\GarbageCollect.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net7.0\GarbageCollect.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net7.0\GarbageCollect.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\bin\Debug\net7.0\GarbageCollect.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\refint\GarbageCollect.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\GarbageCollect.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\GarbageCollect\obj\Debug\net7.0\ref\GarbageCollect.dll
