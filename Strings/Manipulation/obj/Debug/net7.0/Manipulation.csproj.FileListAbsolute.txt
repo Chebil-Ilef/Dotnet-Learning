@@ -1,0 +1,15 @@
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.AssemblyInfoInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.AssemblyInfo.cs
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\bin\Debug\net7.0\Manipulation.exe
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\bin\Debug\net7.0\Manipulation.deps.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\bin\Debug\net7.0\Manipulation.runtimeconfig.json
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\bin\Debug\net7.0\Manipulation.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\bin\Debug\net7.0\Manipulation.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\refint\Manipulation.dll
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.pdb
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\Manipulation.genruntimeconfig.cache
+C:\Users\msi\OneDrive\Bureau\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Strings\Manipulation\obj\Debug\net7.0\ref\Manipulation.dll
